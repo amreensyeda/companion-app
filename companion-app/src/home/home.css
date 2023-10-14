@@ -1,0 +1,24 @@
+.nav-section{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+}
+
+li{
+    list-style: none;
+}
+.username{
+    margin: auto 0px;
+}
+.show-question-circle{
+    position: relative;
+    
+}
+.show-questions{
+    width: 70px;
+}
+.show-question-circle a{
+    position: fixed;
+    bottom: 0px;
+    left: 10px;
+}
